@@ -12,6 +12,7 @@ def get_population(country_dict):
   labels = population_dict.keys()
   values = population_dict.values()
   return labels, values
+#te amoooo
 
 
 def population_by_country(data, country):
