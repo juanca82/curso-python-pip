@@ -1,0 +1,6 @@
+{
+    "audioCues.onDebugBreak": "off",
+    "audioCues.lineHasFoldedArea": "off",
+    "audioCues.lineHasBreakpoint": "off",
+    "audioCues.noInlayHints": "off"
+}
